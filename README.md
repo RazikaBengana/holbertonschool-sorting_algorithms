@@ -52,7 +52,7 @@ The programs focus on understanding the mechanics of these algorithms, their imp
 Additionally, the project emphasizes the importance of choosing the right algorithm for different scenarios by comparing their efficiencies in `best`, `average`, and `worst` cases, while also requiring students to print the array after each swap to visualize the sorting process.
 <br>
 <br>
-This project has been created by **[Holberton School](https://www.holbertonschool.com/about-holberton)** to enable every student to understand how `Sorting Algorithms` & `Big O` work.
+This project has been created by **[Holberton School](https://www.holbertonschool.com/about-holberton)** to enable every student to understand how `sorting algorithms` & `Big O` in C language work.
 
 </div>
 
