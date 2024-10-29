@@ -106,7 +106,7 @@ Each group of two should [pair program](https://en.wikipedia.org/wiki/Pair_progr
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-## :memo: Learning objectives
+## :memo: Learning Objectives
 
 <br>
 
@@ -200,7 +200,7 @@ If you clone/fork/whatever a project repository with the same name before the se
 
 <br>
 
-```yaml
+```c
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -229,7 +229,7 @@ void print_array(const int *array, size_t size)
 <br>
 <br>
 
-```yaml
+```c
 #include <stdio.h>
 #include "sort.h"
 
@@ -269,7 +269,7 @@ void print_list(const listint_t *list)
 
 <br>
 
-```yaml
+```c
 /**
  * struct listint_s - Doubly linked list node
  *
@@ -350,7 +350,7 @@ typedef struct listint_s
 
 <br>
 
-**${\color{blue}Razika \space Bengana}$**
+<img src="https://img.shields.io/badge/Razika%20Bengana-darkblue" alt="Razika Bengana" width="120">
 
 <br>
 <br>
